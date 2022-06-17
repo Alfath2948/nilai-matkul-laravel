@@ -1,0 +1,10 @@
+/* Berkas ini dibuat manual dengan buat new file dikasih extensi .css*/
+
+body {
+    background-color: lightcyan;
+}
+
+table,th,td{
+    border: 1px;
+    border-collapse: collapse;
+}
